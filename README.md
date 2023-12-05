@@ -1,7 +1,7 @@
 # LightThief Code
 
 ## Overview
-This repository hosts the MATLAB simulation code related to the "LightThief" research, demonstrating methods to capture and analyze signal strength, and decode signals using USRP and MATLAB.
+This repository hosts the GNURadio flowgraph and MATLAB code related to the "LightThief" research, demonstrating methods to capture and analyze signal strength, and decode signals using USRP and MATLAB.
 
 ## Contents
 - **Signal Capture**: Code for using USRP to collect signals.
