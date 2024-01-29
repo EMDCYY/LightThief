@@ -19,9 +19,6 @@ This repository hosts the GNURadio flowgraph and MATLAB code related to the "Lig
 ## Contribution
 Contributions to improve or extend the codebase are welcome. Please submit pull requests for review.
 
-## License
-This project is for academic research and is not licensed for commercial use.
-
 
 # LightThief Circuit
 
@@ -30,3 +27,6 @@ This project is for academic research and is not licensed for commercial use.
 - As shown in the figure, just solder the PD in the middle. 
 - You can choose the PD listed in the paper or find one that best matches the wavelength of the light source you are attacking. 
 - Remember, do not cut off the feedline.
+
+# License
+This project is for academic research and is not licensed for commercial use.
