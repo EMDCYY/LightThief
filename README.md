@@ -23,3 +23,10 @@ Contributions to improve or extend the codebase are welcome. Please submit pull 
 This project is for academic research and is not licensed for commercial use.
 
 
+# LightThief Circuit
+
+- The Circuit file contains photos of the LightThief circuit. The greatest advantage of LightThief is its very simple circuit structure, constructed by coupling a photodiode (PD) to a tiny antenna. 
+- As a prototype, you can opt for a Mini PCI/PCI-E antenna (like the one found at this link: https://www.amazon.com/wlaniot-Wireless-Bluetooth-700-2600Mhz-Connector/dp/B077SVP7PN/ref=sr_1_20?dchild=1&keywords=internal+antenna&qid=1621266508&sr=8-20). 
+- As shown in the figure, just solder the PD in the middle. 
+- You can choose the PD listed in the paper or find one that best matches the wavelength of the light source you are attacking. 
+- Remember, do not cut off the feedline.
